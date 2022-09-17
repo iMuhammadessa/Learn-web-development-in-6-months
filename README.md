@@ -34,13 +34,13 @@ Vanilla JavaScript
 
 <hr>
 
-## Month 4 OOP in JavaScript
+## Month 5 OOP in JavaScript
 
 1. https://www.youtube.com/watch?v=FgXFoSr2Db8&list=PLXQpH_kZIxTWQfh_krE4sI_8etq5rH_z6&ab_channel=Coder%27sGyan
 
 
 
 <br><br>
-# Month 5 & 6
+# Month 6
 ## Note
 > Adding VUE + REACT Soon
